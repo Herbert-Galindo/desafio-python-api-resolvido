@@ -1,0 +1,3 @@
+from . despesas_repository import DespesasRepository
+from . tipo_pagamento_repository import TipoPagamentoRepository
+from . categoria_repository import CategoriaRepository
